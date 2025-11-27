@@ -242,7 +242,7 @@ namespace Snack_Game
                 {
 
                     Console.WriteLine("------------------------");
-                    Console.WriteLine("        You Lose");
+                    Console.WriteLine("        Game over");
                     Console.WriteLine("------------------------");
                     break;
                    

@@ -13,8 +13,8 @@ namespace Snack_Game
             {
             Snack snack = new Snack();
             snack.Snack_History.Add(ValueTuple.Create(1, 1));
-            Grid grid = new Grid(40, 70);
-            return (snack, grid, '■', 'A', 'X', 200);
+            Grid grid = new Grid(20, 40);
+            return (snack, grid, '■', 'A', 'X', 150);
         }
         static void Main(string[] args)
         {
