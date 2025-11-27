@@ -62,7 +62,6 @@ This project demonstrates the use of *Object-Oriented Programming (OOP)* princip
 ## 🔮 Future Improvements
 
 * *Fix Flickering:* Implement a smoother rendering technique instead of constantly using Console.Clear().
-* *Self-Collision:* Add logic to detect if the snake hits its own tail.
 * *High Score:* Save the highest score to a text file.
 
 ## 📜 License
